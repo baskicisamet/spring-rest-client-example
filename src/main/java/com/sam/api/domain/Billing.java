@@ -1,5 +1,5 @@
 
-package com.sam.springrestclientexample.api.domain;
+package com.sam.api.domain;
 
 import java.io.Serializable;
 import java.util.HashMap;
